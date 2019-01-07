@@ -12,6 +12,7 @@
 
 #Idea project files
 ociexample.iml
+.idea/
 
 # Package Files #
 *.jar
